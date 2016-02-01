@@ -1,0 +1,59 @@
+This file is the start of a location/maintenance status record for the Observatory Simulators.
+
+ObsSim #1:
+Location: Bldg 37 (Joel V.)
+Firmware Loaded: 1.7b?
+Assembly/Mech. Issues:
+	Missing SN label
+
+ObsSim #2:
+Location: Bldg 37 (Jerry Roberts)
+Firmware Loaded: 1.7b
+Assembly/Mech. Issues:
+	Missing SN label
+
+ObsSim #3:
+Location: Bldg 37 (Ed Bokhour)
+Firmware Loaded: 1.7b
+Assembly/Mech. Issues:
+	Missing SN label
+
+ObsSim #4:
+Location: Next to Cosmos (Michael V. - CamSim testing)
+Firmware Loaded: 1.7b
+Assembly/Mech. Issues:
+	None
+
+ObsSim #5:
+Location: GSE Equipment Locker
+Firmware Loaded:1.7b
+Assembly/Mech. Issues:
+	Missing plastic feet.
+
+ObsSim #6:
+Location: Next to Cosmos
+Firmware Loaded: 1.7b
+Assembly/Mech. Issues:
+	None
+
+ObsSim #7:
+Location: Pre-assembly at LTronics/Waltham
+Firmware Loaded:
+Assembly/Mech. Issues:
+
+ObsSim #8:
+Location: Pre-assembly at LTronics/Waltham
+Firmware Loaded:
+Assembly/Mech. Issues:
+
+ObsSim #9:
+Location: Pre-assembly at LTronics/Waltham
+Firmware Loaded:
+Assembly/Mech. Issues:
+
+ObsSim #10:
+Location: Pre-assembly at LTronics/Waltham
+Firmware Loaded:
+Assembly/Mech. Issues:
+
+
