@@ -2,9 +2,11 @@ This file is the start of a location/maintenance status record for the Observato
 
 ObsSim #1:
 Location: Bldg 37 (Joel V.)
-Firmware Loaded: 1.7b?
+Firmware Loaded: 1.7d
 Assembly/Mech. Issues:
 	Missing SN label
+	Missing front panel graphic
+	Reported the FPE1 interface does not work (using FPE2)
 
 ObsSim #2:
 Location: Bldg 37 (Jerry Roberts)
@@ -14,13 +16,13 @@ Assembly/Mech. Issues:
 
 ObsSim #3:
 Location: NE83 (Ed Bokhour)
-Firmware Loaded: 1.7c (Beta)
+Firmware Loaded: 1.7d
 Assembly/Mech. Issues:
 	Missing SN label
 
 ObsSim #4:
 Location: Next to Cosmos (Michael V. - CamSim testing)
-Firmware Loaded: 1.7c (Beta)
+Firmware Loaded: 1.7d 
 Assembly/Mech. Issues:
 	None
 
