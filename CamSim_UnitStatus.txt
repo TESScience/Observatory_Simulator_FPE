@@ -5,21 +5,21 @@ Location: NE83 GSE Locker
 Firmware Loaded: None
 02/26/16 - Updated FPE Emulation Adapter PCB to 0.3
 Assembly/Mech. Issues:
-	Missing SN label
+	
 
 CamSim #2:
 Location: NE83 GSE Locker
 Firmware Loaded: None
 02/26/16 - Updated FPE Emulation Adapter PCB to 0.3
 Assembly/Mech. Issues:
-	Missing SN label
+	
 
 CamSim #3:
 Location: NE83 GSE Locker
 Firmware Loaded: None
 02/26/16 - Updated FPE Emulation Adapter PCB to 0.3
 Assembly/Mech. Issues:
-	Missing SN label
+	
 
 CamSim #4: 
 Location: Next to Cosmos (Michael V. - CamSim testing)
@@ -33,15 +33,12 @@ Location: NE83
 	Used by Ed Morgan as a chassis for the 2nd Instrument Hardware Sim.
 Firmware Loaded: None
 Assembly/Mech. Issues:
-	Missing SN label
 	Needs to be rebuilt as CamSim
 	Needs update to 0.3 FPE Emulation Adapter PCB
 
 CamSim #6:
-Location: Jim L's Office
+Location: NE83 GSE Equip. Locker
 Firmware Loaded: None
 Assembly/Mech. Issues:
-	Missing SN label
-	Needs update to 0.3 FPE Emulation Adapter PCB
-
+03/08/16 - Updated FPE Emulation Adapter PCB to 0.3
 
