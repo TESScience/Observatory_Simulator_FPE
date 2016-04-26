@@ -33,29 +33,28 @@ Assembly/Mech. Issues:
 	Replaced feet - No other issues
 
 ObsSim #6:
-Location: Kari's Office
+Location: Alexander Rudat (?)
 Firmware Loaded: 1.7b
 Assembly/Mech. Issues:
 	None
 
 ObsSim #7:
-Location: Kit rec'ed at NE83
-Firmware Loaded:
+Location: GSE Equipment Locker
+Firmware Loaded: 1.7d
 Assembly/Mech. Issues:
 
 ObsSim #8:
-Location: Kit rec'ed at NE83
-Firmware Loaded:
+Location: Kari's Office
+Firmware Loaded: 1.7d
 Assembly/Mech. Issues:
 
 ObsSim #9:
-Location: Kit rec'ed at NE83
-Firmware Loaded:
+Location: Lab bench LHS of Cosmos
+Firmware Loaded: 1.7d
 Assembly/Mech. Issues:
 
 ObsSim #10:
-Location: Kit rec'ed at NE83
-Firmware Loaded:
+Location: GSE Equipment Locker
+Firmware Loaded: 1.7d
 Assembly/Mech. Issues:
-
 
