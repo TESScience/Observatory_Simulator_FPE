@@ -28,35 +28,41 @@ Assembly/Mech. Issues:
 	None
 
 ObsSim #005:
-Location: NE83 Pony (Rob)
-Firmware Loaded:1.7b
+Location: NE83 Pony (GSE Cabinet)
+Firmware Loaded:1.7d
+Zynq PCB Version: 2.0 (SN 698951521529-43704)
 Assembly/Mech. Issues:
 	Replaced feet - No other issues
 
 ObsSim #006:
 Location: Alexander Rudat (?)
 Firmware Loaded: 1.7b
+Zynq PCB Version: 2.0 (SN 698951521529-43416)
 Assembly/Mech. Issues:
 	None
 
 ObsSim #007:
-Location: Pony 2
+Location: Pony 2 (Steve Kissel)
 Firmware Loaded: 1.7d
+Zynq PCB Version: 2.0 (SN 698951631540-45231)
 Assembly/Mech. Issues:
 	Unit has prototype frame trigger out option installed (FPE1)
 
 ObsSim #008:
 Location: Kari's Office (ADHU devel./test)
 Firmware Loaded: Various ADHU Test versions based on 1.7d software
+Zynq PCB Version: 2.0 (SN 698951631540-45405)
 Assembly/Mech. Issues:
 
 ObsSim #009:
 Location: Lab bench LHS of Cosmos
 Firmware Loaded: 1.7d
+Zynq PCB Version: 2.0 (SN 698951631540-45218)
 Assembly/Mech. Issues:
 
 ObsSim #10:
 Location: GSE Equipment Locker
 Firmware Loaded: 1.7d
+Zynq PCB Version: 2.0 (SN 698951631540-45312)
 Assembly/Mech. Issues:
 
