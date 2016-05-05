@@ -28,7 +28,7 @@ Assembly/Mech. Issues:
 	None
 
 ObsSim #005:
-Location: NE83 Pony (GSE Cabinet)
+Location: Jerry Roberts (37)
 Firmware Loaded:1.7d
 Zynq PCB Version: 2.0 (SN 698951521529-43704)
 Assembly/Mech. Issues:
