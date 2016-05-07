@@ -56,7 +56,7 @@ Assembly/Mech. Issues:
 
 ObsSim #009:
 Location: Lab bench LHS of Cosmos
-Firmware Loaded: 1.7d
+Firmware Loaded: 1.7f
 Zynq PCB Version: 2.0 (SN 698951631540-45218)
 Assembly/Mech. Issues:
 
