@@ -3,6 +3,10 @@ This file is the start of a location/maintenance status record for the Observato
 ObsSim #001:
 Location: Bldg 37 (Joel V.)
 Firmware Loaded: 1.7d
+Power Supply Configuration:
+	 +5 - Vpt DVHF2805S
+	-12 - Vpt DVHF2812S
+	+15 - Vpt DVHF2815S
 Assembly/Mech. Issues:
 	Unit has prototype frame trigger out option installed (FPE2)
 	Missing SN label
@@ -12,18 +16,32 @@ Assembly/Mech. Issues:
 ObsSim #002:
 Location: Bldg 37 (Jerry Roberts)
 Firmware Loaded: 1.7b
+Power Supply Configuration:
+	 +5 - Vpt DVHF2805S
+	-12 - Vpt DVHF2812S
+	+15 - Vpt DVHF2815S
 Assembly/Mech. Issues:
 	Missing SN label
+
 
 ObsSim #003:
 Location: NE83 (Ed Bokhour)
 Firmware Loaded: 1.7d
+Power Supply Configuration:
+	 +5 - Vpt DVHF2805S
+	-12 - Vpt DVHF2812S
+	+15 - Vpt DVHF2815S
 Assembly/Mech. Issues:
 	Missing SN label
+
 
 ObsSim #004:
 Location: Next to Cosmos (Michael V. - CamSim testing)
 Firmware Loaded: 1.7d 
+Power Supply Configuration:
+	 +5 - Vpt DVHF2805S
+	-12 - Vpt DVHF2812S
+	+15 - Vpt DVHF2815S
 Assembly/Mech. Issues:
 	None
 
@@ -31,6 +49,10 @@ ObsSim #005:
 Location: Jerry Roberts (37)
 Firmware Loaded:1.7d
 Zynq PCB Version: 2.0 (SN 698951521529-43704)
+Power Supply Configuration:
+	 +5 - Vpt DVHF2805S
+	-12 - Vpt DVHF2815S (Note: -15V supply substitution)
+	+15 - Vpt DVHF2815S
 Assembly/Mech. Issues:
 	Replaced feet - No other issues
 
@@ -38,6 +60,10 @@ ObsSim #006:
 Location: Alexander Rudat (?)
 Firmware Loaded: 1.7b
 Zynq PCB Version: 2.0 (SN 698951521529-43416)
+Power Supply Configuration:
+	 +5 - Vpt DVHF2805S
+	-12 - Vpt DVHF2815S (Note: -15V supply substitution)
+	+15 - Vpt DVHF2815S
 Assembly/Mech. Issues:
 	None
 
@@ -45,6 +71,10 @@ ObsSim #007:
 Location: Pony 2 (Steve Kissel)
 Firmware Loaded: 1.7d
 Zynq PCB Version: 2.0 (SN 698951631540-45231)
+Power Supply Configuration:
+	 +5 - TDK/Lambda PXD2024S05
+	-12 - TDK/Lambda PXD2024S12
+	+15 - TDK/Lambda PXD2024S15
 Assembly/Mech. Issues:
 	Unit has prototype frame trigger out option installed (FPE1)
 
@@ -52,17 +82,29 @@ ObsSim #008:
 Location: Kari's Office (ADHU devel./test)
 Firmware Loaded: Various ADHU Test versions based on 1.7d software
 Zynq PCB Version: 2.0 (SN 698951631540-45405)
+Power Supply Configuration:
+	 +5 - TDK/Lambda PXD2024S05
+	-12 - TDK/Lambda PXD2024S12
+	+15 - TDK/Lambda PXD2024S15
 Assembly/Mech. Issues:
 
 ObsSim #009:
 Location: Lab bench LHS of Cosmos
 Firmware Loaded: 1.7f
 Zynq PCB Version: 2.0 (SN 698951631540-45218)
+Power Supply Configuration:
+	 +5 - TDK/Lambda PXD2024S05
+	-12 - TDK/Lambda PXD2024S12
+	+15 - TDK/Lambda PXD2024S15
 Assembly/Mech. Issues:
 
 ObsSim #10:
 Location: GSE Equipment Locker
 Firmware Loaded: 1.7d
 Zynq PCB Version: 2.0 (SN 698951631540-45312)
+Power Supply Configuration:
+	 +5 - TDK/Lambda PXD2024S05
+	-12 - TDK/Lambda PXD2024S12
+	+15 - TDK/Lambda PXD2024S15
 Assembly/Mech. Issues:
 
