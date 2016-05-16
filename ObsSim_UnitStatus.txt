@@ -108,3 +108,49 @@ Power Supply Configuration:
 	+15 - TDK/Lambda PXD2024S15
 Assembly/Mech. Issues:
 
+ObsSim #11:
+Location: GSE Equipment Locker
+Firmware Loaded: 1.7d
+Zynq PCB Version: 2.0 
+Power Supply Configuration:
+	 +5 - TDK/Lambda PXD2024S05
+	-12 - TDK/Lambda PXD2024S12
+	+15 - TDK/Lambda PXD2024S15
+Assembly/Mech. Issues:
+
+ObsSim #12:
+Location: GSE Equipment Locker
+Firmware Loaded: 1.7d
+Zynq PCB Version: 2.0 
+Power Supply Configuration:
+	 +5 - TDK/Lambda PXD2024S05
+	-12 - TDK/Lambda PXD2024S12
+	+15 - TDK/Lambda PXD2024S15
+Assembly/Mech. Issues:
+
+ObsSim #13:
+Location: GSE Equipment Locker
+Firmware Loaded: 1.7d
+Zynq PCB Version: 2.0 
+Power Supply Configuration:
+	 +5 - TDK/Lambda PXD2024S05
+	-12 - TDK/Lambda PXD2024S12
+	+15 - TDK/Lambda PXD2024S15
+Assembly/Mech. Issues:
+
+ObsSim #14:
+Location: GSE Equipment Locker
+Firmware Loaded: 1.7d
+Zynq PCB Version: 2.0 
+Power Supply Configuration:
+	 +5 - TDK/Lambda PXD2024S05
+	-12 - TDK/Lambda PXD2024S12
+	+15 - TDK/Lambda PXD2024S15
+Assembly/Mech. Issues:
+
+New Zynq boards:
+Zynq PCB Version: 2.0 (SN 698951881608-50229)
+Zynq PCB Version: 2.0 (SN 698951881608-50265)
+Zynq PCB Version: 2.0 (SN 698951881608-50294)
+Zynq PCB Version: 2.0 (SN 698951881608-50268)
+
