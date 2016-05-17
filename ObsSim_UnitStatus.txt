@@ -36,8 +36,9 @@ Assembly/Mech. Issues:
 
 
 ObsSim #004:
-Location: Next to Cosmos (Michael V. - CamSim testing)
+Location: Next to Pony
 Firmware Loaded: 1.7d 
+Zynq PCB Version: 1.2 (SN 603651211452-34271)
 Power Supply Configuration:
 	 +5 - Vpt DVHF2805S
 	-12 - Vpt DVHF2812S
